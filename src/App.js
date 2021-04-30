@@ -1,6 +1,6 @@
-import Navbar from "./components/navbar";
 import Body from "./components/body";
 import BottomMobile from "./components/bottomMobile "
+import Navbar from "./components/Navbar/navbar"
 
 
 export default function App() {
